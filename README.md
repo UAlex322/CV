@@ -1,1 +1,1 @@
-# CV
+# Computer Vision course repository
